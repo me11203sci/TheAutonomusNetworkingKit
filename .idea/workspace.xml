@@ -35,6 +35,9 @@
       </state>
     </system>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="ModifiedREADME" />
+  </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
